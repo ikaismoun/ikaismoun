@@ -26,6 +26,6 @@ Objectifs futurs 🎯
 En tant qu'étudiant en développement, je cherche constamment à améliorer mes compétences et à explorer de nouveaux domaines. Dans un avenir proche, je prévois de me plonger davantage dans le développement web en explorant des frameworks JavaScript populaires et en approfondissant mes connaissances en backend. J'ai également l'intention de participer à des hackathons et à d'autres événements de la communauté pour élargir mon réseau et acquérir une expérience pratique enrichissante. 🔍📈
 Contact 📧
 
-N'hésitez pas à me contacter si vous avez des questions, des idées de collaboration ou simplement pour discuter de développement et de programmation. Vous pouvez me joindre par e-mail à [votre@email.com] ou via LinkedIn à [votre_profil_linkedin]. 📨
+N'hésitez pas à me contacter si vous avez des questions, des idées de collaboration ou simplement pour discuter de développement et de programmation. Vous pouvez me joindre par e-mail à kaismounislem@outlook.com ou via LinkedIn : Islem Kaismoun. 📨
 
 Merci d'avoir visité mon profil GitHub et au plaisir de collaborer avec vous sur de futurs projets passionnants ! 🙌
